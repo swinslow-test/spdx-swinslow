@@ -1,0 +1,788 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_cmake-spdx-2021-09-29.zip_1632924227.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-09-29T14:03:47Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: cmake-spdx-2021-09-29.zip
+PackageFileName: cmake-spdx-2021-09-29.zip
+SPDXID: SPDXRef-upload4180
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 5d14cb4efca8fee3c8df235748a775999604e666
+PackageChecksum: SHA1: 646c5c1202676670d9483e6423e58a972198289e
+PackageChecksum: MD5: 9819c7583df1e82121794ec84b5a866e
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload4180
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: cmake-spdx/example/build.spdx
+SPDXID: SPDXRef-item16546611
+FileChecksum: SHA1: 8a74b4df68ac6ce278edbc0ec2b311173b3d2be2
+FileChecksum: MD5: 7fc13d0be303ee1e01a537aac008505a
+LicenseConcluded: CC0-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/sources.spdx
+SPDXID: SPDXRef-item16546610
+FileChecksum: SHA1: de7306e284e8f4daa620447522566e0350734936
+FileChecksum: MD5: 141ee8240c3f1d1bda9ddf5ea62c5efe
+LicenseConcluded: CC0-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: Zlib
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: ISC
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/spdx/builder.py
+SPDXID: SPDXRef-item16546669
+FileChecksum: SHA1: 9d930aa3d6d8ebb4c6a3cc29672dc3dbf3b48887
+FileChecksum: MD5: 366bda7538e21111096dad37955731f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/README.md
+SPDXID: SPDXRef-item16546671
+FileChecksum: SHA1: 224631900f39c1c64298c703c2424df2c94b6eae
+FileChecksum: MD5: ea6bf3578a791f6a067d91c73e412822
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/makedot.py
+SPDXID: SPDXRef-item16546676
+FileChecksum: SHA1: f238aef9c122bf43bdd524760536193c66176ece
+FileChecksum: MD5: 5c2a526ba2afc960507929088f77c349
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/cmakefileapi.py
+SPDXID: SPDXRef-item16546672
+FileChecksum: SHA1: 1f7d15015838c9488f112d72bc19d4781aa96f8e
+FileChecksum: MD5: a8f950bf43095036bfa25a79f3cc497a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/sbom.py
+SPDXID: SPDXRef-item16546665
+FileChecksum: SHA1: 0f2fe32dc7c770758ddb6b90714e383615ac18c9
+FileChecksum: MD5: 7148d061e37b17a7e65286d53416ee0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/main.py
+SPDXID: SPDXRef-item16546670
+FileChecksum: SHA1: 9dbf27523a0dba84c27c71864e7619046b85b580
+FileChecksum: MD5: 058d8b8cbeee136c2edc72e2aff51bc0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/cmakefileapijson.py
+SPDXID: SPDXRef-item16546674
+FileChecksum: SHA1: 6c88a9ec4bc2a06456a0cd3a63ebb333cbb4ab0a
+FileChecksum: MD5: 4be9272aeb7e84250d4f7fd1c43172c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/spdx/relationships.py
+SPDXID: SPDXRef-item16546668
+FileChecksum: SHA1: 364c4062ff5b49720e07a2855feeff53585af4ce
+FileChecksum: MD5: c3b4817fc014de26f546cf5fd428c68e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/LICENSE
+SPDXID: SPDXRef-item16546673
+FileChecksum: SHA1: 2b8b815229aa8a61e483fb4ba0588b8b6c491890
+FileChecksum: MD5: 3b83ef96387f14655fc854ddc3c6bd57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-guiconfig-75360b6e327211907883.json
+SPDXID: SPDXRef-item16546616
+FileChecksum: SHA1: d361c6d00734981ff7fa1ca3dc7feb09315444b3
+FileChecksum: MD5: 46cdf7ad9678da947cea67438431ba9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-drivers__serial-483d46970754221ff96d.json
+SPDXID: SPDXRef-item16546617
+FileChecksum: SHA1: 9ec8d6c8dfc114030dc932ca89e98725eb68cff9
+FileChecksum: MD5: ce5d6068e3fca7d0fecfeae9eb131bfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-linker_script_target-be4b9f0db3263d60c857.json
+SPDXID: SPDXRef-item16546618
+FileChecksum: SHA1: 0c4e402b3fd6f3a1551ade1f860713b3f6a555d5
+FileChecksum: MD5: 27ede3fa223edb811540ec274623c471
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-lib__posix-d946f5bd8b2f881248f1.json
+SPDXID: SPDXRef-item16546619
+FileChecksum: SHA1: 12b91dd4f0c8351dbb0881f418ec42914a15d9ea
+FileChecksum: MD5: 3a59d810e46650daa440124afbe9242b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/index-2020-08-29T18-34-19-0138.json
+SPDXID: SPDXRef-item16546620
+FileChecksum: SHA1: a8b63b34adc05a109f52e1fac501bf72679b7614
+FileChecksum: MD5: 4a7f56b25ab3fe3143dba615efdaa831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-arch__arm__core__aarch32__cortex_m-898fb02b4ca6b4078e40.json
+SPDXID: SPDXRef-item16546621
+FileChecksum: SHA1: 92f00266f24ef3c1807e1364c362307cbeeb4cca
+FileChecksum: MD5: fba4d935946b4bba8c2727a1386e87b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-offsets_h-cd898a485f6de5980142.json
+SPDXID: SPDXRef-item16546622
+FileChecksum: SHA1: 11298b359e261e15dfd7b9b3484d0eb70ca3ebb5
+FileChecksum: MD5: 51dc2305074bcaccfc016d3e36689ce6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-debugserver-02857bba980f5ba5fb80.json
+SPDXID: SPDXRef-item16546623
+FileChecksum: SHA1: fc1bcfc6d999da346424a0d4c9ecbec8055f4b50
+FileChecksum: MD5: a73f84c7701c8380448ea417ed8bfda1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-rom_report-50cab96c5e6ec12dbb4b.json
+SPDXID: SPDXRef-item16546624
+FileChecksum: SHA1: 67f0e68c6784ddf57a57a8b2045e9d56a0ec2404
+FileChecksum: MD5: b5155eceb7b3d44014badac6c776bf68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-offsets-bfd90526670512563160.json
+SPDXID: SPDXRef-item16546625
+FileChecksum: SHA1: 8d42c5d09d64fa53025c53b1870b7afc9e70125b
+FileChecksum: MD5: af308f0ab4a6aa0faf1b29342341d2c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-arch__arm__core__aarch32__cortex_m__mpu-6c20f9abe9751537145d.json
+SPDXID: SPDXRef-item16546626
+FileChecksum: SHA1: a213a21bdb87ed3aa93b68c318e97093c26fc057
+FileChecksum: MD5: 200c673d7444f7c1f30bd2715e71ab12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-arch__arm__core__aarch32-7b5b4f361571f71c5cda.json
+SPDXID: SPDXRef-item16546627
+FileChecksum: SHA1: a7618ba99db2b868a726efe20ccf429130415b1b
+FileChecksum: MD5: 45cdfaff155dca14cc85aeb5759eda8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-drivers__gpio-61c49aedebb38cbc3ded.json
+SPDXID: SPDXRef-item16546628
+FileChecksum: SHA1: 6aa10fa18f7ed2064a051bc7caf62918e09cb18a
+FileChecksum: MD5: 43cc9452eed1ea116ef9e386b2e9c82f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-kobj_types_h_target-6a488386b4a0de05fb5d.json
+SPDXID: SPDXRef-item16546629
+FileChecksum: SHA1: b0f35a32bfbae2851f59c7fe7421e4ac39f57da2
+FileChecksum: MD5: 75abf48ee87283b6c547bb83274ae4c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-west_debug_depends-14f0881153b1617c413c.json
+SPDXID: SPDXRef-item16546630
+FileChecksum: SHA1: 463620a05c89b7a2b5f7776011af6d6ffc4b3e7d
+FileChecksum: MD5: 56883cee250ce3244b285e60aad4d296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-zephyr_prebuilt-66d1b96a5eab2541c4c1.json
+SPDXID: SPDXRef-item16546631
+FileChecksum: SHA1: 374752bf86b168071e001ebf6d1ca9efb2e7de4a
+FileChecksum: MD5: 0c02a1d7c711d77ee9c48b20a808efd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-..__modules__hal__stm32__stm32cube-bde243982042d749a085.json
+SPDXID: SPDXRef-item16546632
+FileChecksum: SHA1: 0f46e6104da76629a5896cd8fb8ba6d786aad0d6
+FileChecksum: MD5: 1511d5f85fc4187f3a4b8c5fe5e1e031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-syscall_list_h_target-05f836c9e448d1ebf289.json
+SPDXID: SPDXRef-item16546633
+FileChecksum: SHA1: a1617a95a43570916fe06a1244e95d61df0cd46b
+FileChecksum: MD5: c6dd4ebbbce9dc7907f574d1e7f2d332
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-hardenconfig-9092caa68f31d9cc2100.json
+SPDXID: SPDXRef-item16546634
+FileChecksum: SHA1: ddef590653054bf46c95c84229a87ca5c78d003b
+FileChecksum: MD5: 7e11ad54760d9e3fe164490f0ffb251a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-lib__libc__minimal-78fee355be429a697067.json
+SPDXID: SPDXRef-item16546635
+FileChecksum: SHA1: 087ef390ede753d86780ccdf2ada214f9d40a921
+FileChecksum: MD5: c1d4d944876c9e3c74c455752e33daab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/codemodel-v2-018480969ba919525f17.json
+SPDXID: SPDXRef-item16546636
+FileChecksum: SHA1: 3d299b1d5011bfc4f993bed797665963389b325a
+FileChecksum: MD5: 2fb196745c7f50df94c713f924c41f6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-zephyr-4e63e7bd2629ce3836e0.json
+SPDXID: SPDXRef-item16546637
+FileChecksum: SHA1: 09383958ee277fff440f814c8dc24fddef7800d7
+FileChecksum: MD5: 45e0024c3c5cc14f1b633389177c99c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-menuconfig-e986d8b97af08b3bd34e.json
+SPDXID: SPDXRef-item16546638
+FileChecksum: SHA1: 759fac7212c4ff8d1dada9201f6a7673c8391ffa
+FileChecksum: MD5: b42a0efe305fcfd105f6811327cd22f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-runner_yml_props_target-4521af57be8268f90b68.json
+SPDXID: SPDXRef-item16546639
+FileChecksum: SHA1: ce75e309b6cc422d1a70d1c2d9db1d4e5aa73eea
+FileChecksum: MD5: f4c975393ffac643bb03d0d454ebbb88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-attach-e5cba574b7628dc97ce2.json
+SPDXID: SPDXRef-item16546640
+FileChecksum: SHA1: 6533950febe33da315d6c6059ceb1e6d50169d3e
+FileChecksum: MD5: b03d9773c36c145d0abd906f6920e749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-linker_pass_final_script_target-0deaec56e85cccb3ba2f.json
+SPDXID: SPDXRef-item16546641
+FileChecksum: SHA1: c9a4736eb53ea6ea20e9dc89b1375093b5eb1589
+FileChecksum: MD5: 780653ab76f34eb1a9a853a4a12eecad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-parse_syscalls_target-9f773ad50daf86823f31.json
+SPDXID: SPDXRef-item16546642
+FileChecksum: SHA1: 509b6a778570710606680eb3b5415029f3e554b3
+FileChecksum: MD5: 34004a8d8f83146f1eaf0246381c840c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-soc__arm__common__cortex_m-735303d4be59707442f2.json
+SPDXID: SPDXRef-item16546643
+FileChecksum: SHA1: 2f9401452df56bb18b35af021f057b62c01bc542
+FileChecksum: MD5: 34485b392161d074a6dd5f9521e906a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-pristine-a5ea13047f5dd4d5550e.json
+SPDXID: SPDXRef-item16546644
+FileChecksum: SHA1: d3a1a1e02e0a68e4a31b94cf88b6055e3b25e8d6
+FileChecksum: MD5: b7da327358e8c4e40caf4323eda3333c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-west_debugserver_depends-28a837efa84266bc77ba.json
+SPDXID: SPDXRef-item16546645
+FileChecksum: SHA1: ea041bfb0223dfbd9519cec0edd7b7ada3fca45c
+FileChecksum: MD5: 2969504bc1ac4ee929d3df9f16e608d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-flash-74082299190e118e528f.json
+SPDXID: SPDXRef-item16546646
+FileChecksum: SHA1: 9ef0b2f587b4d96278589062ebcf55f40f9d0e77
+FileChecksum: MD5: 8765912f418fba5abef0bec89a47a18c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-zephyr_property_target-5098b207811d616db053.json
+SPDXID: SPDXRef-item16546647
+FileChecksum: SHA1: 0497b596eee54d917b3eb2c8a6e2c19088e42c67
+FileChecksum: MD5: 124fff84b8ab199ebc774e25e0390fac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-zephyr_generated_headers-f6e76ab7f7af1e91e560.json
+SPDXID: SPDXRef-item16546648
+FileChecksum: SHA1: 6fffce2579b4056dd87ceab55b9eda4c6c497d63
+FileChecksum: MD5: 3dc057c12c65561cd1748387783fc230
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-code_data_relocation_target-634d5fc9e92c6044fc03.json
+SPDXID: SPDXRef-item16546649
+FileChecksum: SHA1: ea6eedfedf64659227809c5f98cbdd2354ce55a4
+FileChecksum: MD5: f13a7e08cbdf3e842ba5e36a190522e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-west_attach_depends-cc327d5f4992ad49c78c.json
+SPDXID: SPDXRef-item16546650
+FileChecksum: SHA1: a51f7bf88700440555b62aaac111b4e93c15fbb7
+FileChecksum: MD5: 285356e178775b0d93fddb8cb83033a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-config-sanitycheck-3fa7b4f3964919f71b77.json
+SPDXID: SPDXRef-item16546651
+FileChecksum: SHA1: 5be916b46056ce9a81f0d023ac9cbd76389c25f7
+FileChecksum: MD5: 85ffa6c9a49399777660b0aaabd9f049
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-usage-ebcfdfe057e24cb61709.json
+SPDXID: SPDXRef-item16546652
+FileChecksum: SHA1: a8b309718b1d46171724ee8df082f3a436d3f609
+FileChecksum: MD5: 641e0109358f05a4122779c895c75206
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-debug-06ec65bf4424ff14fc55.json
+SPDXID: SPDXRef-item16546653
+FileChecksum: SHA1: cf48dc69bae5dfd33e49b8bd60dd05e70973675a
+FileChecksum: MD5: e4fac2c7e416c0e07de09b8a0afb86d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-zephyr_final-39baa4fbc11f57d0951e.json
+SPDXID: SPDXRef-item16546654
+FileChecksum: SHA1: 8154b2d83c2884ec35e5899b29becadc17dde4b1
+FileChecksum: MD5: 044b21497132c721f7bbf03359d3e5d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-app-280d9461df13784348e0.json
+SPDXID: SPDXRef-item16546655
+FileChecksum: SHA1: 8472b6b5bbf5f727f79d587e1fa4a3b5257e2519
+FileChecksum: MD5: 3836abecd57d42404cf4c9a989d5fdd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-ram_report-e256ae27fc52b995c303.json
+SPDXID: SPDXRef-item16546656
+FileChecksum: SHA1: e5991d7d7c36a42bc058595d398fcb9e220ca8dd
+FileChecksum: MD5: 9c239f5b7faa74baea7baf0808398f14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-driver_validation_h_target-99bd001558cdab9e333a.json
+SPDXID: SPDXRef-item16546657
+FileChecksum: SHA1: 2695332c186f57fe90804b2a00fb67ae39959664
+FileChecksum: MD5: 167bb2aab5dd3dc1b9e2a7d4617822b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-arch__common-2a39cd6abbd3e6b464dd.json
+SPDXID: SPDXRef-item16546658
+FileChecksum: SHA1: ce14047d3446ae3713b3ca6d6ab02da45084fb0f
+FileChecksum: MD5: c5957d3a396a372fb5edc2a58017b297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-west_flash_depends-463d4c368d8711d84a81.json
+SPDXID: SPDXRef-item16546659
+FileChecksum: SHA1: 20ef2e6e69e0f35698df5b1f8d2e38b41ee4261d
+FileChecksum: MD5: 8d4d1faab90c7f11ab9bd4ac0dc6d878
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-run-3764bd113a7688320da7.json
+SPDXID: SPDXRef-item16546660
+FileChecksum: SHA1: d7731505bb6d50ccff643c5d282e3c9a00023c58
+FileChecksum: MD5: f4dad7de4ff75be4b7a7f31c39eeab76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-kernel-9cfd0b77bda770ca7028.json
+SPDXID: SPDXRef-item16546661
+FileChecksum: SHA1: 42b8d2254c19961300aed25bd09964a5c0a75465
+FileChecksum: MD5: a9be46cd0b963fd959c2624853800490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/reply/target-boards__arm__adafruit_feather_stm32f405-8cdd0ca294612c5a7427.json
+SPDXID: SPDXRef-item16546662
+FileChecksum: SHA1: 16b6c5501483011ff9b297f5835c6fdd952daf51
+FileChecksum: MD5: 3b6af94cffd43df54a05ffa756f22646
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/example/api-example-reply/api/v1/query/codemodel-v2
+SPDXID: SPDXRef-item16546664
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/spdx/__init__.py
+SPDXID: SPDXRef-item16546667
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/__init__.py
+SPDXID: SPDXRef-item16546675
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/.gitignore
+SPDXID: SPDXRef-item16546677
+FileChecksum: SHA1: 5150ab7b01d72c6b753ed2ca1612b77b8cd25995
+FileChecksum: MD5: 66bf7864456b17cc056323b97ef14aa4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/docs/internals.md
+SPDXID: SPDXRef-item16546679
+FileChecksum: SHA1: 5be089a9c6ca18352827f90e75ebb735c9afe63d
+FileChecksum: MD5: 3d9f4cc6b0bdbe5ca2d345a5b04aa3ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/docs/process.md
+SPDXID: SPDXRef-item16546680
+FileChecksum: SHA1: 474ef1093785bd8ede4c3768d38cbc4ec01a6e47
+FileChecksum: MD5: 66d088db5c3f4476220fc7883cb0043d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: cmake-spdx/docs/next-steps.md
+SPDXID: SPDXRef-item16546681
+FileChecksum: SHA1: c29aeab5001f41cc2e8c296a248e9504237629a8
+FileChecksum: MD5: bcffca8c6706086a6fd42aa83d6f6c77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
